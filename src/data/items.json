@@ -1,20 +1,12 @@
 {
   "items": [
     {
-      "name": "Item 4444",
-      "id": "c862"
+      "id": "aa",
+      "name": "Item 1"
     },
     {
-      "id": "9629",
-      "name": "r44r4r4"
-    },
-    {
-      "name": "wrer34",
-      "id": "e551"
-    },
-    {
-      "id": "b542",
-      "name": "werwer"
+      "id": "bb",
+      "name": "Item 2"
     }
   ]
 }
